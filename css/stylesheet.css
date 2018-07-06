@@ -1,5 +1,8 @@
 .navbar{
 	background: grey;
+	margin-top: -2px;
+	margin-left: -2px;
+	margin-right:-2px;
 }
 #page_title
 {

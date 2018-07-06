@@ -1,0 +1,48 @@
+.navbar{
+	background: grey;
+}
+#page_title
+{
+	padding-top: 15px;
+	font-family: serif;
+	float: left;
+}
+
+#heading{
+	font-family: sans-serif;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+.menu_item{
+	font-family: times new roman;
+	font-size: 23px;
+	margin-bottom: 40px;
+	padding-top: 15px;
+}
+
+.container div.item{
+	background-color: grey;
+	margin-bottom: 25px;
+	border-width: 15px;
+	padding-bottom: 15px;
+}
+
+.content{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#nav-list{
+	font-color:black;
+}
+
+.navbar-toggle{
+	background-color: white;
+	margin-top: 40px;
+}
+
+.nav{
+	background: white;
+	border: 1px black;
+}
